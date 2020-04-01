@@ -8,7 +8,7 @@
 }
 .table-container{
     display: block;
-    width: 300px;
+    width: 450px;
     margin: auto;
 }
 
@@ -16,8 +16,15 @@ table{
     border: black 1px solid;
 }
 
+th{
+    padding: 10px;
+    border: black 1px solid;
+    color: #5C5C5C;
+}
+
 td{
     padding: 10px;
     border: black 1px solid;
     color: #5C5C5C;
+    text-align: center;
 }
